@@ -1,0 +1,10 @@
+127.0.0.1 - - [10/Mar/2023:10:55:50 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Mar/2023:10:55:51 +0530] "GET /LifeCycleDemo/servlet/com.lifecycle.servalet.DemoServlet HTTP/1.1" 404 815
+0:0:0:0:0:0:0:1 - - [10/Mar/2023:10:55:52 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [10/Mar/2023:10:56:04 +0530] "GET /LifeCycleDemo/servlet/com.lifecycle.servalet.DemoServlet HTTP/1.1" 404 815
+0:0:0:0:0:0:0:1 - - [10/Mar/2023:10:57:37 +0530] "GET /LifeCycleDemo/servlet/com.lifecycle.servalet.DemoServlet HTTP/1.1" 404 815
+0:0:0:0:0:0:0:1 - - [10/Mar/2023:11:01:50 +0530] "GET /LifeCycleDemo/servlet/com.lifecycle.servalet.DemoServlet HTTP/1.1" 404 815
+0:0:0:0:0:0:0:1 - - [10/Mar/2023:11:02:09 +0530] "GET /LifeCycleDemo/servlet/com.lifecycle.servalet.DemoServlet/lifedemo HTTP/1.1" 404 828
+0:0:0:0:0:0:0:1 - - [10/Mar/2023:11:02:20 +0530] "GET /LifeCycleDemo/servlet/com.lifecycle.servalet.DemoServlet/lifedemo HTTP/1.1" 404 828
+127.0.0.1 - - [10/Mar/2023:11:07:08 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Mar/2023:11:07:09 +0530] "GET /LifeCycleDemo/servlet/com.lifecycle.servalet.DemoServlet HTTP/1.1" 404 815

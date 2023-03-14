@@ -1,0 +1,20 @@
+package com.collectiondemo1.main;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.collectiondemo1.pojo.Engine;
+
+public class ListMain {
+
+	public static void main(String[] args) {
+		List<Engine> lstengine =new ArrayList<>();
+       Engine e1=new Engine(1200, "petrol");
+       Engine e2=new Engine(1500, "desal");
+       Engine e3=new Engine(1700, "cng");
+       System.out.println("All elements from ListEngine");
+       for(Engine e :lstengine)
+    	   System.out.println(e);
+	}
+
+}

@@ -1,0 +1,14 @@
+127.0.0.1 - - [11/Mar/2023:11:53:36 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:53:36 +0530] "GET /AddNumDemo/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:53:36 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [11/Mar/2023:11:54:11 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:54:12 +0530] "GET /CurrencyConverterDemo1/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:54:18 +0530] "GET /CurrencyConverterDemo1/accept?txtAmount=1222&radCurrency=p HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:54:18 +0530] "GET /CurrencyConverterDemo1/pound?amt=1222 HTTP/1.1" 200 533
+127.0.0.1 - - [11/Mar/2023:20:35:11 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:20:35:11 +0530] "GET /CurrencyConverterForwardDemo/ HTTP/1.1" 404 784
+127.0.0.1 - - [11/Mar/2023:20:38:53 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:20:38:53 +0530] "GET /CurrencyConverterForwardDemo/ HTTP/1.1" 404 784
+127.0.0.1 - - [11/Mar/2023:20:42:54 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:20:42:54 +0530] "GET /CurrencyConverterForwardDemo/ HTTP/1.1" 200 1183
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:20:43:04 +0530] "GET /CurrencyConverterForwardDemo/accept?txtAmount=1200&radCurrency=d HTTP/1.1" 200 534

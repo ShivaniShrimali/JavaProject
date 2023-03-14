@@ -1,0 +1,5 @@
+package com.assinmentweek2.jdbc;
+
+public class Student {
+
+}
